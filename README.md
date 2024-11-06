@@ -6,8 +6,6 @@
 - Le damos permiso chmod +x xui-mysql.sh
 - Ejecutamos ./xui-mysql.sh
 
-![run](readme-images/run.png)
-
 ![opcion1](readme-images/opcion1.png)
 
 - Elija la obcion: 1
