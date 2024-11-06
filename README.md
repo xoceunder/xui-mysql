@@ -7,3 +7,9 @@
 - Ejecutamos ./xui-mysql.sh
 
 ![run](readme-images/run.png)
+![opcion1](readme-images/opcion1.png)
+
+- Elija la obcion: 1
+- Se mostrara un listado y el usuario que cambiara sera el que tiene Host 127.0.0.1
+
+![datos](readme-images/datos.png)
