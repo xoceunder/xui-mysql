@@ -5,3 +5,5 @@
 -Subir el archivo al Server
 -Le damos permiso chmod +x xui-mysql.sh
 -Ejecutamos ./xui-mysql.sh
+
+![run](readme-images/run.png)
